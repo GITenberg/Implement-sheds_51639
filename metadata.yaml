@@ -1,0 +1,26 @@
+_repo: Implement-sheds_51639
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ekblaw, K. J. T. (Karl John Theodore)
+    alias: Ekblaw, Karl John Theodore
+    birthdate: 1884
+    deathdate: 1947
+    gutenberg_agent_id: '46504'
+    url: http://www.gutenberg.org/2009/agents/46504
+description: ''
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm buildings'
+- !lcsh 'Barns'
+- !lcc 'NA'
+- GITenberg
+title: Implement sheds
+url: http://www.gutenberg.org/ebooks/51639
